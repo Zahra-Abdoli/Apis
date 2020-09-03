@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TBGt6f0BfyqDddVJPD8oyXKBzVowHPgvyUfaitwljN2Sgay7N9HF7k3yx7XePh0bHDCJ8wpBhi1/tMrzBtxC1A==",
+  "dgSpecHash": "KzL5Uh7AXLFXKr7aSiY5QQPFXLlxePrYzRVwjfsBVPCX6hjM5EIX14fxU1Cz3pg7WWMF4d4fPB6+/3v7ypWSrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\WebApi\\Lab6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Svea User\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Svea User\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.2\\microsoft.aspnetcore.jsonpatch.3.1.2.nupkg.sha512",

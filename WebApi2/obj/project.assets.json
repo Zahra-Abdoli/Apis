@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\WebApi2\\WebApi2.csproj",
-      "projectName": "WebApi2",
-      "projectPath": "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\WebApi2\\WebApi2.csproj",
+      "projectUniqueName": "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\WebApi2\\Lab5.csproj",
+      "projectName": "Lab5",
+      "projectPath": "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\WebApi2\\Lab5.csproj",
       "packagesPath": "C:\\Users\\Svea User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\WebApi2\\obj\\",
       "projectStyle": "PackageReference",
