@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Lab8.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20200904133620_initDb")]
+    [Migration("20200904144645_initDb")]
     partial class initDb
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -41,7 +41,7 @@ namespace Lab8.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Users");
+                    b.ToTable("Customers");
                 });
 #pragma warning restore 612, 618
         }

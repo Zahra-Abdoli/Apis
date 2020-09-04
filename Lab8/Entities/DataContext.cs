@@ -13,7 +13,7 @@ namespace Lab8.Entities
 
         }
 
-        //Blir tabell i DB
-        public DbSet<Customer> Users { get; set; }
+      
+        public DbSet<Customer> Customers { get; set; }
     }
 }
