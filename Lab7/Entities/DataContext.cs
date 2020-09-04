@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.ent
+
 using Microsoft.EntityFrameworkCore;
 
 namespace Lab7.Entities
@@ -15,7 +15,7 @@ namespace Lab7.Entities
 
             }
 
-            //Blir tabell i DB
+           
             public DbSet<User> Users { get; set; }
         }
     }
