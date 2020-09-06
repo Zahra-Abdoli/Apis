@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\Lab8\\Lab8.csproj": {}
+    "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\Blazor\\Blazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\Lab8\\Lab8.csproj": {
+    "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\Blazor\\Blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\Lab8\\Lab8.csproj",
-        "projectName": "Lab8",
-        "projectPath": "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\Lab8\\Lab8.csproj",
+        "projectUniqueName": "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\Blazor\\Blazor.csproj",
+        "projectName": "Blazor",
+        "projectPath": "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\Blazor\\Blazor.csproj",
         "packagesPath": "C:\\Users\\Svea User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\Lab8\\obj\\",
+        "outputPath": "C:\\Users\\Svea User\\Source\\Repos\\WebApi2\\Blazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Svea User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,30 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.AspNetCore.Blazor.HttpClient": {
-              "target": "Package",
-              "version": "[3.2.0-preview3.20168.3, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[3.1.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[3.1.7, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[3.1.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
